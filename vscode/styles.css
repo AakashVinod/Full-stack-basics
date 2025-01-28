@@ -1,0 +1,53 @@
+{
+    font-family: sans-serif;
+
+}
+
+h1{
+    color: blue;
+    font-weight: bold;
+    font-size: large;
+}
+
+h2{
+    color: rgb(255, 0, 136);
+    font-weight: bold;
+    font-size: large;
+
+}
+
+body {
+    max-width: 700px;
+    margin: 0 auto;
+    background-color: aqua;
+}
+
+.left {
+    color: yellowgreen;
+    text-align: left;
+}
+
+.center {
+    color: orangered;
+    text-align: center;
+
+}
+
+.right {
+    color: brown;
+    text-align: right;
+}
+
+.divider {
+    background-color: red;
+    padding: 30px;
+}
+
+a:hover {
+    font-weight: bold;
+    color: darkmagenta;
+}
+
+img {
+    width: 70%;
+}
